@@ -1,0 +1,12 @@
+com\example\strategy\ComportamentoNormal.class
+com\example\strategy\ComportamentoAgressivo.class
+com\example\singleton\SingletonHolderLazy.class
+com\example\singleton\SingletonHolderLazy$Holder.class
+com\example\strategy\Comportamento.class
+com\example\strategy\ComportamentoDefensivo.class
+com\example\singleton\SingletonLazy.class
+subsistema2\cep\CepApi.class
+subsistema1\crm\CrmService.class
+com\example\facade\Facade.class
+com\example\main\Main.class
+com\example\strategy\Robo.class
